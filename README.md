@@ -118,7 +118,7 @@ done
 
 ### 🧑‍💻 Peer Evaluations (3/3)
 
-> **Peer 1**: " "
+> **Peer 1**: " Awesome work! We went through all the tests and your server works really nicely. You seemed to consider all possible edge cases and no issues occurred, even when only partially sending messages or 'killing' connections unexpectedly. You could also explain your set up and approach to poll and fcntl really well and help me refresh my memories on this project:) once more, good job and good luck with the upcoming evals on this! "
 
 > **Peer 2**: " "
 
