@@ -120,7 +120,7 @@ done
 
 > **Peer 1**: " Awesome work! We went through all the tests and your server works really nicely. You seemed to consider all possible edge cases and no issues occurred, even when only partially sending messages or 'killing' connections unexpectedly. You could also explain your set up and approach to poll and fcntl really well and help me refresh my memories on this project:) once more, good job and good luck with the upcoming evals on this! "
 
-> **Peer 2**: " "
+> **Peer 2**: " Hanni's group did a good job with their IRC. I think they did a good job with parsing the nickname, they didn't accept random characters. Also when one client quit, the server was still running. I checked all the channel commands and made sure that all the modes worked and interrupted the commands as well. Good job guys! "
 
-> **Peer 3**: " "
+> **Peer 3**: " Great job, girls! The ft_irc project was well executed. All required commands were implemented correctly, and the evaluation sheet was fully covered. Modes like +i, +t, +k, +o, and +l were handled smoothly, with appropriate checks and responses. Your attention to detail in managing user states, channel modes, and message routing was clear. Referencing irssi to compare behavior was a smart move—it showed your commitment to aligning with real IRC standards. Overall, your teamwork, understanding of the IRC protocol, and handling of edge cases made for a strong and polished project. Well done! "
 
